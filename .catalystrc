@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "6134000000149171",
+      "name": "FullstackAuth",
+      "domain": {
+        "id": "10102053178",
+        "name": "fullstackauth-827123197.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "827123197",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
