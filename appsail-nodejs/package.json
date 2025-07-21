@@ -1,25 +1,32 @@
 {
-  "name": "appsail-nodejs",
+  "name": "backend",
   "version": "0.0.1",
   "description": "Sample AppSail application with NodeJS and express framework.",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [
+    "AppSail"
+  ],
+  "homepage": "https://github.com/catalystbyzoho/appsail-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/catalystbyzoho/appsail-nodejs/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/catalystbyzoho/appsail-nodejs.git"
   },
-  "keywords": [
-    "AppSail"
-  ],
+  "license": "ISC",
   "author": "",
-  "bugs": {
-    "url": "https://github.com/catalystbyzoho/appsail-nodejs/issues"
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
-  "homepage": "https://github.com/catalystbyzoho/appsail-nodejs#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.10",
+    "zcatalyst-sdk-node": "^3.0.2"
   }
 }
