@@ -22,7 +22,7 @@
 */
 
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 // Chakra imports
 import {
   Box,
@@ -47,6 +47,8 @@ import illustration from "assets/img/auth/auth.png";
 import { FcGoogle } from "react-icons/fc";
 import { MdOutlineRemoveRedEye } from "react-icons/md";
 import { RiEyeCloseLine } from "react-icons/ri";
+import { useState } from "react";
+import axios from "axios";
 
 function SignIn() {
   // Chakra color mode
@@ -67,6 +69,26 @@ function SignIn() {
   );
   const [show, setShow] = React.useState(false);
   const handleClick = () => setShow(!show);
+
+  // Sign Up Events
+  const [usernameReg, setUernameReg] = useState("");
+  const [emailReg, setEmailReg] = useState("");
+  const [passwordReg, setPasswordReg] = useState("");
+  const navigate = useNavigate();
+
+  const register = () => {
+    axios
+      .post("http://localhost:3001/signup", {
+        email: emailReg,
+        username: usernameReg,
+        password: passwordReg,
+      })
+      .then((response) => {
+        console.log(response);
+        navigate("/app/admin/default");
+      });
+  };
+
   return (
     <DefaultAuth illustrationBackground={illustration} image={illustration}>
       <Flex
@@ -152,6 +174,9 @@ function SignIn() {
               mb="24px"
               fontWeight="500"
               size="lg"
+              onChange={(e) => {
+                setUernameReg(e.target.value);
+              }}
             />
 
             <FormLabel
@@ -174,6 +199,9 @@ function SignIn() {
               mb="24px"
               fontWeight="500"
               size="lg"
+              onChange={(e) => {
+                setEmailReg(e.target.value);
+              }}
             />
 
             <FormLabel
@@ -194,6 +222,9 @@ function SignIn() {
                 size="lg"
                 type={show ? "text" : "password"}
                 variant="auth"
+                onChange={(e) => {
+                  setPasswordReg(e.target.value);
+                }}
               />
               <InputRightElement display="flex" alignItems="center" mt="4px">
                 <Icon
@@ -239,6 +270,7 @@ function SignIn() {
               w="100%"
               h="50"
               mb="24px"
+              onClick={register}
             >
               Sign In
             </Button>
