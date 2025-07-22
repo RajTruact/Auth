@@ -172,7 +172,7 @@ function SignIn() {
               variant="auth"
               fontSize="sm"
               ms={{ base: "0px", md: "0px" }}
-              type="email"
+              type="text"
               placeholder="username"
               mb="24px"
               fontWeight="500"

@@ -23,13 +23,18 @@ dotenv.config(); // Load env vars
 
 const app = express();
 
-app.use(
-  cors({
-    origin:
-      "https://fullstackauth-827123197.development.catalystserverless.com",
-    credentials: true,
-  })
-);
+// Try this more explicit CORS configuration
+const corsOptions = {
+  origin: "https://fullstackauth-827123197.development.catalystserverless.com",
+  credentials: true,
+  allowedHeaders: ["Content-Type", "Authorization"],
+  methods: ["GET", "POST", "PUT", "DELETE"],
+};
+
+app.use(cors(corsOptions));
+
+// Add this to handle preflight requests
+app.options("*", cors(corsOptions));
 
 app.use(express.json());
 app.use(cookieParser());
@@ -49,7 +54,13 @@ app.get("/", (req, res) => {
 
 // SIGN UP
 app.post("/signup", async (req, res) => {
+  console.log("Received body:", req.body); // Add this for debug
+
   const { email, username, password } = req.body;
+  if (!email || !username || !password) {
+    return res.status(400).send({ message: "Missing fields" });
+  }
+
   const catalystApp = catalyst.initialize(req);
 
   try {
@@ -71,7 +82,7 @@ app.post("/signup", async (req, res) => {
     res.send({ message: "Signup successful!" });
   } catch (err) {
     console.error(err);
-    // sendErrorResponse(res);
+    res.status(500).send({ message: "Internal Server Error" });
   }
 });
 
