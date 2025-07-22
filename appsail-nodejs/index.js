@@ -17,10 +17,20 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import cookieParser from "cookie-parser";
 import dotenv from "dotenv";
+import cors from "cors";
 
 dotenv.config(); // Load env vars
 
 const app = express();
+
+app.use(
+  cors({
+    origin:
+      "https://fullstackauth-827123197.development.catalystserverless.com",
+    credentials: true,
+  })
+);
+
 app.use(express.json());
 app.use(cookieParser());
 

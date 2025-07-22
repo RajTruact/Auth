@@ -78,14 +78,17 @@ function SignIn() {
 
   const register = () => {
     axios
-      .post("http://localhost:3001/signup", {
-        email: emailReg,
-        username: usernameReg,
-        password: passwordReg,
-      })
+      .post(
+        "https://backend-10102053178.development.catalystappsail.com/signup",
+        {
+          email: emailReg,
+          username: usernameReg,
+          password: passwordReg,
+        }
+      )
       .then((response) => {
         console.log(response);
-        navigate("/app/admin/default");
+        navigate("/admin/default");
       });
   };
 
