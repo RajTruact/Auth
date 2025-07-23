@@ -1100,3 +1100,119 @@ Response Headers: {"server":"ZGS","date":"Wed, 23 Jul 2025 07:18:47 GMT","conten
 Search for the keywords to learn more about each warning.
 [info] [2025-07-23T07:19:12.797Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
 
+[info] [2025-07-23T07:21:21.635Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:21:22.773Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:21:22.824Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-23T07:21:22.831Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:21:22.832Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-23T07:22:12.058Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:22:16.001Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:22:16.005Z] : [react-plugin]: Module not found: Error: Can't resolve '../utils/catalyst' in 'C:\Users\DELL\FullStackAuth\frontend\src\views\auth\logIn'
+[info] [2025-07-23T07:22:16.269Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:22:17.281Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:22:17.281Z] : [react-plugin]: Module not found: Error: Can't resolve '../utils/catalyst' in 'C:\Users\DELL\FullStackAuth\frontend\src\views\auth\logIn'
+[info] [2025-07-23T07:22:39.436Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:22:43.151Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:22:43.156Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:24:56.360Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:24:58.263Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:24:58.329Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:25:21.570Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:25:22.945Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:25:22.945Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:25:23.283Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:25:23.926Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:25:23.926Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:27:27.539Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:27:28.873Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:27:28.873Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\utils\catalyst.js
+  Line 2:8:  'catalyst' is defined but never used  no-unused-vars
+[info] [2025-07-23T07:27:28.873Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:27:28.874Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-23T07:29:00.723Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:29:02.338Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:29:02.339Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\utils\catalyst.js
+  Line 2:8:  'catalyst' is defined but never used  no-unused-vars
+[info] [2025-07-23T07:29:02.339Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:29:02.339Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-23T07:29:54.757Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:29:55.284Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:29:55.284Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\utils\catalyst.js
+  Line 2:8:  'catalyst' is defined but never used  no-unused-vars
+[info] [2025-07-23T07:29:55.285Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:29:55.285Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-23T07:32:28.447Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:32:29.958Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:32:29.958Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:33:24.824Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:33:25.738Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:33:25.738Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-23T07:33:25.739Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:33:25.739Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-23T07:33:29.031Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:33:30.230Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:33:30.231Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:35:34.356Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:35:37.725Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:35:37.739Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:36:11.441Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:36:12.911Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-23T07:36:12.911Z] : [react-plugin]: Module not found: Error: Can't resolve 'net' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\https-proxy-agent\dist'
+[info] [2025-07-23T07:37:55.125Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:37:56.757Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:37:56.757Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\utils\catalyst.js
+  Line 2:8:  'catalyst' is defined but never used  no-unused-vars
+[info] [2025-07-23T07:37:56.757Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:37:56.758Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-23T07:40:31.896Z] : [react-plugin]: Compiling...
+[info] [2025-07-23T07:40:32.795Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-23T07:40:32.796Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\utils\catalyst.js
+  Line 2:8:  'catalyst' is defined but never used  no-unused-vars
+[info] [2025-07-23T07:40:32.796Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-23T07:40:32.796Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
