@@ -48,8 +48,18 @@ const passwordCol = "password";
 // Secret key for JWT
 // const JWT_SECRET = 'your_secret_key'; // 🔐 In production, store in env variable
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
+app.get("/", async (req, res) => {
+  try {
+    const catalystApp = catalyst.initialize(req); // required to access user management
+    const userManagement = catalystApp.userManagement();
+    const users = await userManagement.getAllUsers();
+
+    console.log("All Users:", users);
+    res.send("Fetched and logged all users in the console.");
+  } catch (error) {
+    console.error("Error fetching users:", error);
+    res.status(500).send("Failed to fetch users.");
+  }
 });
 
 // SIGN UP
