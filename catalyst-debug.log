@@ -1,0 +1,226 @@
+[debug] [2025-07-24T11:17:19.368Z] : 
+[debug] [2025-07-24T11:17:19.370Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T11:17:19.370Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-24T11:17:19.371Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T11:17:19.371Z] : Platform:     win32
+[debug] [2025-07-24T11:17:19.371Z] : Node Version: v20.17.0
+[debug] [2025-07-24T11:17:19.372Z] : Time:         Thu Jul 24 2025 16:47:19 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T11:17:19.372Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T11:17:19.372Z] : 
+[debug] [2025-07-24T11:17:20.533Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T11:17:20.534Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-24T11:17:20.561Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T11:17:21.618Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:17:21 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:17:21.623Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-24T11:17:21.947Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:17:22 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:17:22.420Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-24T11:17:22.557Z] : No basic functions to add
+[info] [2025-07-24T11:17:26.707Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-24T11:17:26.709Z] : 
+[info] [2025-07-24T11:17:26.710Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-24T11:17:26.710Z] : 
+[info] [2025-07-24T11:17:29.217Z] : 
+[info] [2025-07-24T11:17:29.217Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-24T11:17:29.218Z] : Executing command > npm install
+[info] [2025-07-24T11:17:29.218Z] : > npm install
+[info] [2025-07-24T11:17:31.700Z] : 
+[info] [2025-07-24T11:17:31.703Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-24T11:17:31.716Z] : i backend: http://localhost:3001
+[info] [2025-07-24T11:17:31.720Z] : 
+[info] [2025-07-24T11:17:31.724Z] : 
+[info] [2025-07-24T11:17:31.738Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-24T11:17:31.741Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-24T11:17:31.743Z] : 
+[info] [2025-07-24T11:17:43.076Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:17:43.076Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:17:43.076Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:17:43.077Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:17:50.335Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:17:58.523Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:17:58.548Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:17:58.576Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:17:58.594Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:17:58.769Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:18:00.204Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:18:00.204Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:18:00.205Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:18:00.205Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:23:51.917Z] : Shutting down server
+[info] [2025-07-24T11:23:51.964Z] : 
+[info] [2025-07-24T11:23:51.965Z] : √ Shutdown complete
+[debug] [2025-07-24T11:23:51.965Z] : NO ERRORS REGISTERED
+[debug] [2025-07-24T11:23:51.966Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-24T11:23:51.966Z] : TOTAL DURATION OF COMMAND EXEC : 391461
+[debug] [2025-07-24T11:23:51.997Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-24T11:23:54.511Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:23:54 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:23:54.513Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-24T11:23:54.517Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-24T11:23:57.661Z] : 
+[debug] [2025-07-24T11:23:57.663Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T11:23:57.663Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-24T11:23:57.664Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T11:23:57.664Z] : Platform:     win32
+[debug] [2025-07-24T11:23:57.664Z] : Node Version: v20.17.0
+[debug] [2025-07-24T11:23:57.665Z] : Time:         Thu Jul 24 2025 16:53:57 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T11:23:57.665Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T11:23:57.665Z] : 
+[debug] [2025-07-24T11:23:58.224Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T11:23:58.225Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-24T11:23:58.242Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T11:23:59.158Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:23:59 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:23:59.163Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-24T11:23:59.454Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:23:59 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:23:59.912Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-24T11:24:00.053Z] : No basic functions to add
+[info] [2025-07-24T11:24:03.967Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-24T11:24:03.969Z] : 
+[info] [2025-07-24T11:24:03.969Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-24T11:24:03.970Z] : 
+[info] [2025-07-24T11:24:05.887Z] : 
+[info] [2025-07-24T11:24:05.888Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-24T11:24:05.888Z] : Executing command > npm install
+[info] [2025-07-24T11:24:05.888Z] : > npm install
+[info] [2025-07-24T11:24:07.671Z] : 
+[info] [2025-07-24T11:24:07.672Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-24T11:24:07.673Z] : i backend: http://localhost:3001
+[info] [2025-07-24T11:24:07.674Z] : 
+[info] [2025-07-24T11:24:07.674Z] : 
+[info] [2025-07-24T11:24:07.675Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-24T11:24:07.676Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-24T11:24:07.677Z] : 
+[error] [2025-07-24T11:24:08.602Z] : uncaughtException: Unable to start the AppSail
+CatalystError: Unable to start the AppSail
+    at ChildProcess.<anonymous> (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\server\lib\appsail\index.js:190:19)
+    at Object.onceWrapper (node:events:634:26)
+    at ChildProcess.emit (node:events:531:35)
+    at cp.emit (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\cross-spawn\lib\enoent.js:34:29)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+[info] [2025-07-24T11:24:08.607Z] : 
+[error] [2025-07-24T11:24:08.608Z] : × Error: Unable to start the backend AppSail server with the below parameters.
+Command    : node index.js
+Build path : C:\Users\DELL\FullStackAuth\appsail-nodejs
+Runtime    : node16
+[debug] [2025-07-24T11:24:08.608Z] : Error Stack: CatalystError: Unable to start the AppSail
+    at ChildProcess.<anonymous> (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\server\lib\appsail\index.js:190:19)
+    at Object.onceWrapper (node:events:634:26)
+    at ChildProcess.emit (node:events:531:35)
+    at cp.emit (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\cross-spawn\lib\enoent.js:34:29)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+[debug] [2025-07-24T11:24:08.608Z] : Error Status: 500
+[info] [2025-07-24T11:24:08.609Z] : 
+[error] [2025-07-24T11:24:08.609Z] : Please fix the errors if any
+[debug] [2025-07-24T11:27:15.637Z] : 
+[debug] [2025-07-24T11:27:15.639Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T11:27:15.640Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-24T11:27:15.640Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T11:27:15.640Z] : Platform:     win32
+[debug] [2025-07-24T11:27:15.641Z] : Node Version: v20.17.0
+[debug] [2025-07-24T11:27:15.641Z] : Time:         Thu Jul 24 2025 16:57:15 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T11:27:15.641Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T11:27:15.641Z] : 
+[debug] [2025-07-24T11:27:16.045Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T11:27:16.046Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-24T11:27:16.065Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T11:27:17.076Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:27:17 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:27:17.086Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-24T11:27:17.388Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 11:27:17 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T11:27:17.688Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-24T11:27:17.818Z] : No basic functions to add
+[info] [2025-07-24T11:27:21.543Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-24T11:27:21.549Z] : 
+[info] [2025-07-24T11:27:21.553Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-24T11:27:21.573Z] : 
+[info] [2025-07-24T11:27:23.474Z] : 
+[info] [2025-07-24T11:27:23.474Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-24T11:27:23.475Z] : Executing command > npm install
+[info] [2025-07-24T11:27:23.475Z] : > npm install
+[info] [2025-07-24T11:27:25.534Z] : 
+[info] [2025-07-24T11:27:25.536Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-24T11:27:25.539Z] : i backend: http://localhost:3001
+[info] [2025-07-24T11:27:25.541Z] : 
+[info] [2025-07-24T11:27:25.546Z] : 
+[info] [2025-07-24T11:27:25.549Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-24T11:27:25.551Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-24T11:27:25.554Z] : 
+[info] [2025-07-24T11:27:29.364Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:27:29.364Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:27:29.365Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:27:29.365Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:30:19.186Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:30:24.852Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:30:24.854Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:30:24.890Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:30:24.904Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:30:25.034Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:30:25.460Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:30:25.460Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:30:25.461Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:30:25.461Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:35:28.085Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:35:29.829Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:35:29.830Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:35:29.831Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:35:29.831Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:40:05.658Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:40:07.388Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:40:07.404Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:40:07.440Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:40:07.440Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:47:59.309Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:48:01.253Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:48:01.253Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:48:01.254Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:48:01.254Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+

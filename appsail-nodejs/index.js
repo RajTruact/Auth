@@ -24,17 +24,13 @@ dotenv.config(); // Load env vars
 const app = express();
 
 // Try this more explicit CORS configuration
-const corsOptions = {
-  origin: "https://fullstackauth-827123197.development.catalystserverless.com",
-  credentials: true,
-  allowedHeaders: ["Content-Type", "Authorization"],
-  methods: ["GET", "POST", "PUT", "DELETE"],
-};
-
-app.use(cors(corsOptions));
-
-// Add this to handle preflight requests
-app.options("*", cors(corsOptions));
+app.use(
+  cors({
+    origin:
+      "https://fullstackauth-827123197.development.catalystserverless.com",
+    credentials: true,
+  })
+);
 
 app.use(express.json());
 app.use(cookieParser());
