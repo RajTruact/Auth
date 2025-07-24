@@ -224,3 +224,18 @@ Search for the keywords to learn more about each warning.
 Search for the keywords to learn more about each warning.
 [info] [2025-07-24T11:48:01.254Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
 
+[info] [2025-07-24T11:56:10.003Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:56:10.004Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:56:10.004Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:56:10.004Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T11:56:19.514Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T11:56:20.076Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T11:56:20.076Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T11:56:20.077Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T11:56:20.077Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
