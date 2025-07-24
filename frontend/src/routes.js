@@ -14,11 +14,21 @@ import MainDashboard from "views/admin/default";
 import NFTMarketplace from "views/admin/marketplace";
 import Profile from "views/admin/profile";
 import DataTables from "views/admin/dataTables";
+
 import RTL from "views/admin/rtl";
 
 // Auth Imports
 import SignInCentered from "views/auth/signIn";
 import LogIn from "views/auth/logIn";
+
+// Donor Imports
+import DonorDashboard from "views/donor/default";
+import DonorProfile from "views/donor/profile";
+
+import MainDashboard1 from "views/faculty/default";
+import NFTMarketplace1 from "views/faculty/marketplace";
+import Profile1 from "views/faculty/profile";
+import DataTables1 from "views/faculty/dataTables";
 
 const routes = [
   {
@@ -57,6 +67,60 @@ const routes = [
     icon: <Icon as={MdPerson} width="20px" height="20px" color="inherit" />,
     component: <Profile />,
   },
+  {
+    name: "Donor Dashboard",
+    layout: "/donor",
+    path: "/default",
+    icon: <Icon as={MdHome} width="20px" height="20px" color="inherit" />,
+    component: <DonorDashboard />,
+  },
+  {
+    name: "Donor Profile",
+    layout: "/donor",
+    path: "/profile",
+    icon: <Icon as={MdPerson} width="20px" height="20px" color="inherit" />,
+    component: <DonorProfile />,
+  },
+
+  // -------------------------------------------------------------------------------------------------------
+  {
+    name: "Main Dashboard",
+    layout: "/faculty",
+    path: "/default",
+    icon: <Icon as={MdHome} width="20px" height="20px" color="inherit" />,
+    component: <MainDashboard1 />,
+  },
+  {
+    name: "NFT Marketplace",
+    layout: "/faculty",
+    path: "/nft-marketplace",
+    icon: (
+      <Icon
+        as={MdOutlineShoppingCart}
+        width="20px"
+        height="20px"
+        color="inherit"
+      />
+    ),
+    component: <NFTMarketplace1 />,
+    secondary: true,
+  },
+  {
+    name: "Data Tables",
+    layout: "/faculty",
+    icon: <Icon as={MdBarChart} width="20px" height="20px" color="inherit" />,
+    path: "/data-tables",
+    component: <DataTables1 />,
+  },
+  {
+    name: "Profile",
+    layout: "/faculty",
+    path: "/profile",
+    icon: <Icon as={MdPerson} width="20px" height="20px" color="inherit" />,
+    component: <Profile1 />,
+  },
+
+  // ----------------------------------------------------------------------------------
   {
     name: "Sign In",
     layout: "/auth",

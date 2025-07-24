@@ -3,6 +3,8 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import {} from "react-router-dom";
 import AuthLayout from "./layouts/auth";
 import AdminLayout from "./layouts/admin";
+import DonorLayout from "./layouts/donor";
+import FacultyLayout from "./layouts/faculty";
 import RTLLayout from "./layouts/rtl";
 import {
   ChakraProvider,
@@ -23,6 +25,18 @@ export default function Main() {
           path="admin/*"
           element={
             <AdminLayout theme={currentTheme} setTheme={setCurrentTheme} />
+          }
+        />
+        <Route
+          path="donor/*"
+          element={
+            <DonorLayout theme={currentTheme} setTheme={setCurrentTheme} />
+          }
+        />
+        <Route
+          path="faculty/*"
+          element={
+            <FacultyLayout theme={currentTheme} setTheme={setCurrentTheme} />
           }
         />
         <Route

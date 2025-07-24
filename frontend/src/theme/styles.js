@@ -10,7 +10,7 @@ export const globalStyles = {
       600: "#3311DB",
       700: "#02044A",
       800: "#190793",
-      900: "#11047A",
+      900: "#16181D",
     },
     brandScheme: {
       100: "#E9E3FF",
@@ -21,7 +21,7 @@ export const globalStyles = {
       600: "#3311DB",
       700: "#02044A",
       800: "#190793",
-      900: "#02044A",
+      900: "#16181D",
     },
     brandTabs: {
       100: "#E9E3FF",
@@ -32,7 +32,7 @@ export const globalStyles = {
       600: "#3311DB",
       700: "#02044A",
       800: "#190793",
-      900: "#02044A",
+      900: "#16181D",
     },
     secondaryGray: {
       100: "#E0E5F2",
@@ -43,7 +43,7 @@ export const globalStyles = {
       600: "#A3AED0",
       700: "#707EAE",
       800: "#707EAE",
-      900: "#1B2559",
+      900: "#16181D",
     },
     red: {
       100: "#FEEFEE",
@@ -71,8 +71,8 @@ export const globalStyles = {
       500: "#1b3bbb",
       600: "#24388a",
       700: "#1B254B",
-      800: "#111c44",
-      900: "#0b1437",
+      800: "#0D1117",
+      900: "#16181D",
     },
     gray: {
       100: "#FAFCFE",
