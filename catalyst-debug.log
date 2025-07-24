@@ -239,3 +239,841 @@ Search for the keywords to learn more about each warning.
 Search for the keywords to learn more about each warning.
 [info] [2025-07-24T11:56:20.077Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
 
+[info] [2025-07-24T12:00:59.583Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:00:59.595Z] : [react-plugin]: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\index.js'
+[info] [2025-07-24T12:01:00.606Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:01:00.633Z] : [react-plugin]: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\index.js'
+[info] [2025-07-24T12:01:05.079Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:01:08.877Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:01:08.879Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:01:09.058Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:01:10.675Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:01:10.678Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:01:11.045Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:01:12.433Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:01:12.436Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:02:32.333Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:02:33.419Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:02:33.421Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:06:47.304Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:06:58.929Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:06:58.932Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:09:13.680Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:09:16.080Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:09:16.090Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:09:44.954Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:09:46.325Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:09:46.326Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:13:41.579Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:13:43.634Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:13:43.635Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:13:49.459Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:13:51.087Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:13:51.089Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:17:27.290Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:17:30.390Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:17:30.391Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:18:34.901Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:18:36.798Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:18:36.799Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[info] [2025-07-24T12:19:34.087Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:19:35.709Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-24T12:19:35.713Z] : [react-plugin]: Module not found: Error: Can't resolve 'http' in 'C:\Users\DELL\FullStackAuth\frontend\node_modules\axios\lib\adapters'
+Did you mean './http'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, C:\Users\DELL\FullStackAuth\frontend\node_modules, C:\Users\DELL\FullStackAuth\frontend\src).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+	- add a fallback 'resolve.fallback: { "http": require.resolve("stream-http") }'
+	- install 'stream-http'
+If you don't want to include a polyfill, you can use an empty module like this:
+	resolve.fallback: { "http": false }
+[debug] [2025-07-24T12:19:42.549Z] : > refreshing access token <
+[debug] [2025-07-24T12:19:42.563Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-24T12:19:42.849Z] : > refreshing access token <
+[debug] [2025-07-24T12:19:42.850Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-24T12:19:44.339Z] : > refreshing access token <
+[debug] [2025-07-24T12:19:44.341Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-24T12:19:44.550Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:19:44 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:19:44.566Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:19:44 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:19:47.995Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:19:48 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-24T12:20:04.699Z] : Shutting down server
+[info] [2025-07-24T12:20:04.829Z] : 
+[info] [2025-07-24T12:20:04.829Z] : √ Shutdown complete
+[debug] [2025-07-24T12:20:04.830Z] : NO ERRORS REGISTERED
+[debug] [2025-07-24T12:20:04.830Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-24T12:20:04.830Z] : TOTAL DURATION OF COMMAND EXEC : 3168799
+[debug] [2025-07-24T12:20:04.945Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-24T12:20:49.819Z] : 
+[debug] [2025-07-24T12:20:49.832Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:20:49.833Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js deploy
+[debug] [2025-07-24T12:20:49.833Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T12:20:49.833Z] : Platform:     win32
+[debug] [2025-07-24T12:20:49.834Z] : Node Version: v20.17.0
+[debug] [2025-07-24T12:20:49.834Z] : Time:         Thu Jul 24 2025 17:50:49 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T12:20:49.834Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:20:49.834Z] : 
+[debug] [2025-07-24T12:20:50.363Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T12:20:50.363Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.webapp.ALL","ZohoCatalyst.appsail.Update"]
+[debug] [2025-07-24T12:20:50.384Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T12:20:59.243Z] : 
+[debug] [2025-07-24T12:20:59.246Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:20:59.246Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-24T12:20:59.247Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T12:20:59.247Z] : Platform:     win32
+[debug] [2025-07-24T12:20:59.247Z] : Node Version: v20.17.0
+[debug] [2025-07-24T12:20:59.248Z] : Time:         Thu Jul 24 2025 17:50:59 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T12:20:59.248Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:20:59.248Z] : 
+[debug] [2025-07-24T12:20:59.699Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T12:20:59.699Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-24T12:20:59.717Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T12:21:03.999Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:21:03 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:21:04.003Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-24T12:21:06.256Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:21:06 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:21:06.739Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-24T12:21:06.921Z] : No basic functions to add
+[info] [2025-07-24T12:21:11.167Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-24T12:21:11.169Z] : 
+[info] [2025-07-24T12:21:11.170Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-24T12:21:11.170Z] : 
+[info] [2025-07-24T12:21:13.382Z] : 
+[info] [2025-07-24T12:21:13.382Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-24T12:21:13.382Z] : Executing command > npm install
+[info] [2025-07-24T12:21:13.382Z] : > npm install
+[info] [2025-07-24T12:21:22.455Z] : 
+[info] [2025-07-24T12:21:22.458Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-24T12:21:22.487Z] : i backend: http://localhost:3001
+[info] [2025-07-24T12:21:22.518Z] : 
+[info] [2025-07-24T12:21:22.526Z] : 
+[info] [2025-07-24T12:21:22.538Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-24T12:21:22.552Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-24T12:21:22.557Z] : 
+[info] [2025-07-24T12:21:49.961Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:21:49.964Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:21:49.965Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:21:49.965Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:27:02.286Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:27:04.971Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:27:04.973Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:27:04.973Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:27:04.974Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:30:38.802Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:30:40.995Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:30:41.000Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:30:41.007Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:30:41.009Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:30:41.284Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:30:44.753Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:30:44.757Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:30:44.758Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:30:44.758Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:33:21.508Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:33:23.811Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:33:23.833Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:33:23.834Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:33:23.858Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:33:40.922Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:33:42.646Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:33:42.648Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:33:42.649Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:33:42.649Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:33:57.201Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:33:58.766Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:33:58.768Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:33:58.769Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:33:58.769Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:34:35.963Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:34:38.117Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:34:38.124Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:34:38.126Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:34:38.127Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:34:54.861Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:34:56.136Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:34:56.139Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:34:56.139Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:34:56.140Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:34:56.233Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:34:56.640Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:34:56.644Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:34:56.645Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:34:56.645Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:34:56.781Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:34:57.349Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:34:57.353Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:34:57.354Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:34:57.354Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:35:26.470Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:35:28.261Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:35:28.263Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:35:28.264Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:35:28.264Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:35:50.223Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:35:52.284Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:35:52.286Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:35:52.287Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:35:52.287Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:35:59.272Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:36:01.511Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:36:01.520Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:36:01.521Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:36:01.521Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:36:09.524Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:36:11.222Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:36:11.225Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:36:11.226Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:36:11.226Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:36:46.438Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:36:48.226Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:36:48.231Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:36:48.231Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:36:48.233Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:37:10.561Z] : [react-plugin]: Compiling...
+[info] [2025-07-24T12:37:12.331Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:37:12.333Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\sidebar\components\SidebarCard.js
+  Line 2:3:   'Button' is defined but never used                                                no-unused-vars
+  Line 3:3:   'Flex' is defined but never used                                                  no-unused-vars
+  Line 4:3:   'Image' is defined but never used                                                 no-unused-vars
+  Line 5:3:   'Link' is defined but never used                                                  no-unused-vars
+  Line 6:3:   'Text' is defined but never used                                                  no-unused-vars
+  Line 9:8:   'logoWhite' is defined but never used                                             no-unused-vars
+  Line 13:9:  'bgColor' is assigned a value but never used                                      no-unused-vars
+  Line 14:9:  'borderColor' is assigned a value but never used                                  no-unused-vars
+  Line 18:7:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+
+src\layouts\auth\Default.js
+  Line 2:10:   'Box' is defined but never used                              no-unused-vars
+  Line 5:8:    'Footer' is defined but never used                           no-unused-vars
+  Line 13:21:  'illustrationBackground' is assigned a value but never used  no-unused-vars
+[info] [2025-07-24T12:37:12.337Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:37:12.341Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-24T12:40:24.152Z] : Shutting down server
+[debug] [2025-07-24T12:40:24.236Z] : Connection reset from target URL :  Url {
+  protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: '127.0.0.1:4600',
+  port: '4600',
+  hostname: '127.0.0.1',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: 'http://127.0.0.1:4600/'
+}
+[debug] [2025-07-24T12:40:24.253Z] : Connection reset from target URL :  Url {
+  protocol: 'https:',
+  slashes: true,
+  auth: null,
+  host: 'fullstackauth-827123197.development.catalystserverless.com',
+  port: null,
+  hostname: 'fullstackauth-827123197.development.catalystserverless.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: 'https://fullstackauth-827123197.development.catalystserverless.com/'
+}
+[info] [2025-07-24T12:40:24.270Z] : 
+[info] [2025-07-24T12:40:24.275Z] : √ Shutdown complete
+[debug] [2025-07-24T12:40:24.276Z] : NO ERRORS REGISTERED
+[debug] [2025-07-24T12:40:24.278Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-24T12:40:24.278Z] : TOTAL DURATION OF COMMAND EXEC : 1164591
+[debug] [2025-07-24T12:40:24.351Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-24T12:40:45.455Z] : 
+[debug] [2025-07-24T12:40:45.459Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:40:45.459Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-24T12:40:45.460Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T12:40:45.460Z] : Platform:     win32
+[debug] [2025-07-24T12:40:45.460Z] : Node Version: v20.17.0
+[debug] [2025-07-24T12:40:45.461Z] : Time:         Thu Jul 24 2025 18:10:45 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T12:40:45.461Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:40:45.461Z] : 
+[debug] [2025-07-24T12:40:46.171Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T12:40:46.172Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-24T12:40:46.191Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T12:41:23.551Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:41:22 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:41:23.565Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[error] [2025-07-24T12:41:34.643Z] : × API Error: read ECONNRESET
+[debug] [2025-07-24T12:41:34.644Z] : Error Stack: CatalystError: API Error: read ECONNRESET
+    at API.<anonymous> (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\internal\api.js:229:32)
+    at Generator.next (<anonymous>)
+    at C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\internal\api.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\internal\api.js:27:12)
+    at Request._callback (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\internal\api.js:209:67)
+    at self.callback (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\request\request.js:185:22)
+    at Request.emit (node:events:519:28)
+    at Request.onRequestError (C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\node_modules\request\request.js:877:8)
+    at ClientRequest.emit (node:events:519:28)
+[debug] [2025-07-24T12:41:34.644Z] : Original Error: Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:218:20)
+[debug] [2025-07-24T12:41:34.645Z] : Error Status: 500
+[info] [2025-07-24T12:41:34.646Z] : Kindly contact Catalyst support [support@zohocatalyst.com] if you need any further assistance
+[debug] [2025-07-24T12:41:34.647Z] : EXEC ENDED with event: Error (Unexpected), message: API Error: read ECONNRESET
+[debug] [2025-07-24T12:41:34.647Z] : TOTAL DURATION OF COMMAND EXEC : 48491
+[debug] [2025-07-24T12:41:34.652Z] : Unable to initialise the log API
+[debug] [2025-07-24T12:41:49.398Z] : 
+[debug] [2025-07-24T12:41:49.400Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:41:49.400Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-24T12:41:49.401Z] : CLI Version:  1.20.1
+[debug] [2025-07-24T12:41:49.401Z] : Platform:     win32
+[debug] [2025-07-24T12:41:49.401Z] : Node Version: v20.17.0
+[debug] [2025-07-24T12:41:49.402Z] : Time:         Thu Jul 24 2025 18:11:49 GMT+0530 (India Standard Time)
+[debug] [2025-07-24T12:41:49.402Z] : ----------------------------------------------------------------------
+[debug] [2025-07-24T12:41:49.402Z] : 
+[debug] [2025-07-24T12:41:49.754Z] : > authorizing via signed-in user option
+[debug] [2025-07-24T12:41:49.754Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-24T12:41:49.769Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-24T12:42:10.052Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:42:04 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:42:10.057Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-24T12:42:11.776Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 24 Jul 2025 12:42:11 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-24T12:42:12.300Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-24T12:42:12.471Z] : No basic functions to add
+[info] [2025-07-24T12:42:16.509Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-24T12:42:16.511Z] : 
+[info] [2025-07-24T12:42:16.512Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-24T12:42:16.512Z] : 
+[info] [2025-07-24T12:42:18.577Z] : 
+[info] [2025-07-24T12:42:18.577Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-24T12:42:18.578Z] : Executing command > npm install
+[info] [2025-07-24T12:42:18.578Z] : > npm install
+[info] [2025-07-24T12:43:20.188Z] : 
+[info] [2025-07-24T12:43:20.188Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-24T12:43:20.190Z] : i backend: http://localhost:3001
+[info] [2025-07-24T12:43:20.192Z] : 
+[info] [2025-07-24T12:43:20.193Z] : 
+[info] [2025-07-24T12:43:20.194Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-24T12:43:20.198Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-24T12:43:20.200Z] : 
+[info] [2025-07-24T12:43:24.317Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-24T12:43:24.318Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-24T12:43:24.318Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-24T12:43:24.319Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+

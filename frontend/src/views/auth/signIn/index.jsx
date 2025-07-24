@@ -1,26 +1,3 @@
-/* eslint-disable */
-/*!
-  _   _  ___  ____  ___ ________  _   _   _   _ ___   
- | | | |/ _ \|  _ \|_ _|__  / _ \| \ | | | | | |_ _| 
- | |_| | | | | |_) || |  / / | | |  \| | | | | || | 
- |  _  | |_| |  _ < | | / /| |_| | |\  | | |_| || |
- |_| |_|\___/|_| \_\___/____\___/|_| \_|  \___/|___|
-                                                                                                                                                                                                                                                                                                                                       
-=========================================================
-* Horizon UI - v1.1.0
-=========================================================
-
-* Product Page: https://www.horizon-ui.com/
-* Copyright 2023 Horizon UI (https://www.horizon-ui.com/)
-
-* Designed and Coded by Simmmple
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
-
 import React from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 // Chakra imports
@@ -47,8 +24,9 @@ import illustration from "assets/img/auth/auth.png";
 import { FcGoogle } from "react-icons/fc";
 import { MdOutlineRemoveRedEye } from "react-icons/md";
 import { RiEyeCloseLine } from "react-icons/ri";
-import { useState } from "react";
 import axios from "axios";
+import { useFormik } from "formik";
+import * as Yup from "yup";
 
 function SignIn() {
   // Chakra color mode
@@ -70,27 +48,37 @@ function SignIn() {
   const [show, setShow] = React.useState(false);
   const handleClick = () => setShow(!show);
 
-  // Sign Up Events
-  const [usernameReg, setUernameReg] = useState("");
-  const [emailReg, setEmailReg] = useState("");
-  const [passwordReg, setPasswordReg] = useState("");
   const navigate = useNavigate();
 
-  const register = () => {
-    axios
-      .post(
-        "https://backend-10102053178.development.catalystappsail.com/signup",
-        {
-          email: emailReg,
-          username: usernameReg,
-          password: passwordReg,
-        }
-      )
-      .then((response) => {
-        console.log(response);
+  const formik = useFormik({
+    initialValues: {
+      name: "",
+      email: "",
+      password: "",
+    },
+    validationSchema: Yup.object({
+      name: Yup.string().min(2).max(25).required("Please enter your name"),
+      email: Yup.string().email().required("Please enter your email"),
+      password: Yup.string().min(6).required("Please enter your password"),
+    }),
+    onSubmit: async (values, actions) => {
+      try {
+        const response = await axios.post(
+          "https://backend-10102053178.development.catalystappsail.com/signup",
+          {
+            email: values.email,
+            username: values.name,
+            password: values.password,
+          }
+        );
+        console.log(response.data);
+        actions.resetForm();
         navigate("/admin/default");
-      });
-  };
+      } catch (error) {
+        console.error("Signup failed:", error.response?.data || error.message);
+      }
+    },
+  });
 
   return (
     <DefaultAuth illustrationBackground={illustration} image={illustration}>
@@ -156,128 +144,162 @@ function SignIn() {
             </Text>
             <HSeparator />
           </Flex>
-          <FormControl>
-            <FormLabel
-              display="flex"
-              ms="4px"
-              fontSize="sm"
-              fontWeight="500"
-              color={textColor}
-              mb="8px"
-            >
-              UserName<Text color={brandStars}>*</Text>
-            </FormLabel>
-            <Input
-              isRequired={true}
-              variant="auth"
-              fontSize="sm"
-              ms={{ base: "0px", md: "0px" }}
-              type="text"
-              placeholder="username"
-              mb="24px"
-              fontWeight="500"
-              size="lg"
-              onChange={(e) => {
-                setUernameReg(e.target.value);
-              }}
-            />
-
-            <FormLabel
-              display="flex"
-              ms="4px"
-              fontSize="sm"
-              fontWeight="500"
-              color={textColor}
-              mb="8px"
-            >
-              Email<Text color={brandStars}>*</Text>
-            </FormLabel>
-            <Input
-              isRequired={true}
-              variant="auth"
-              fontSize="sm"
-              ms={{ base: "0px", md: "0px" }}
-              type="email"
-              placeholder="mail@simmmple.com"
-              mb="24px"
-              fontWeight="500"
-              size="lg"
-              onChange={(e) => {
-                setEmailReg(e.target.value);
-              }}
-            />
-
-            <FormLabel
-              ms="4px"
-              fontSize="sm"
-              fontWeight="500"
-              color={textColor}
-              display="flex"
-            >
-              Password<Text color={brandStars}>*</Text>
-            </FormLabel>
-            <InputGroup size="md">
+          <form onSubmit={formik.handleSubmit}>
+            <FormControl>
+              <FormLabel
+                display="flex"
+                ms="4px"
+                fontSize="sm"
+                fontWeight="500"
+                color={textColor}
+                mb="8px"
+              >
+                UserName<Text color={brandStars}>*</Text>
+              </FormLabel>
               <Input
                 isRequired={true}
-                fontSize="sm"
-                placeholder="Min. 8 characters"
-                mb="24px"
-                size="lg"
-                type={show ? "text" : "password"}
                 variant="auth"
-                onChange={(e) => {
-                  setPasswordReg(e.target.value);
-                }}
+                fontSize="sm"
+                ms={{ base: "0px", md: "0px" }}
+                type="text"
+                placeholder="username"
+                mb="24px"
+                fontWeight="500"
+                size="lg"
+                name="name"
+                id="name"
+                value={formik.values.name}
+                onChange={formik.handleChange}
+                onBlur={formik.handleBlur}
               />
-              <InputRightElement display="flex" alignItems="center" mt="4px">
-                <Icon
-                  color={textColorSecondary}
-                  _hover={{ cursor: "pointer" }}
-                  as={show ? RiEyeCloseLine : MdOutlineRemoveRedEye}
-                  onClick={handleClick}
-                />
-              </InputRightElement>
-            </InputGroup>
-            <Flex justifyContent="space-between" align="center" mb="24px">
-              <FormControl display="flex" alignItems="center">
-                <Checkbox
-                  id="remember-login"
-                  colorScheme="brandScheme"
-                  me="10px"
-                />
-                <FormLabel
-                  htmlFor="remember-login"
-                  mb="0"
-                  fontWeight="normal"
-                  color={textColor}
-                  fontSize="sm"
-                >
-                  Keep me logged in
-                </FormLabel>
-              </FormControl>
-              <NavLink to="/auth/forgot-password">
-                <Text
-                  color={textColorBrand}
-                  fontSize="sm"
-                  w="124px"
-                  fontWeight="500"
-                >
-                  Forgot password?
+
+              {formik.errors.name && formik.touched.name && (
+                <Text color="red.500" fontSize="sm">
+                  {formik.errors.name}
                 </Text>
-              </NavLink>
-            </Flex>
-            <Button
-              fontSize="sm"
-              variant="brand"
-              fontWeight="500"
-              w="100%"
-              h="50"
-              mb="24px"
-              onClick={register}
-            >
-              Sign In
-            </Button>
-          </FormControl>
+              )}
+
+              <FormLabel
+                display="flex"
+                ms="4px"
+                fontSize="sm"
+                fontWeight="500"
+                color={textColor}
+                mb="0px"
+                mt="8px"
+              >
+                Email<Text color={brandStars}>*</Text>
+              </FormLabel>
+              <Input
+                isRequired={true}
+                variant="auth"
+                fontSize="sm"
+                ms={{ base: "0px", md: "0px" }}
+                type="email"
+                placeholder="mail@simmmple.com"
+                mb="24px"
+                fontWeight="500"
+                size="lg"
+                name="email"
+                id="email"
+                value={formik.values.email}
+                onChange={formik.handleChange}
+                onBlur={formik.handleBlur}
+              />
+
+              {formik.errors.email && formik.touched.email && (
+                <Text color="red.500" fontSize="sm">
+                  {formik.errors.email}
+                </Text>
+              )}
+
+              <FormLabel
+                ms="4px"
+                fontSize="sm"
+                fontWeight="500"
+                color={textColor}
+                display="flex"
+                mb="0px"
+                mt="8px"
+              >
+                Password<Text color={brandStars}>*</Text>
+              </FormLabel>
+              <InputGroup size="md">
+                <Input
+                  isRequired={true}
+                  fontSize="sm"
+                  placeholder="Min. 8 characters"
+                  mb="24px"
+                  size="lg"
+                  type={show ? "text" : "password"}
+                  variant="auth"
+                  name="password"
+                  id="password"
+                  value={formik.values.password}
+                  onChange={formik.handleChange}
+                  onBlur={formik.handleBlur}
+                />
+
+                <InputRightElement display="flex" alignItems="center" mt="4px">
+                  <Icon
+                    color={textColorSecondary}
+                    _hover={{ cursor: "pointer" }}
+                    as={show ? RiEyeCloseLine : MdOutlineRemoveRedEye}
+                    onClick={handleClick}
+                  />
+                </InputRightElement>
+              </InputGroup>
+              {formik.errors.password && formik.touched.password && (
+                <Text color="red.500" fontSize="sm" className="mb-2">
+                  {formik.errors.password}
+                </Text>
+              )}
+              <Flex
+                justifyContent="space-between"
+                align="center"
+                mb="24px"
+                mt="10px"
+              >
+                <FormControl display="flex" alignItems="center">
+                  <Checkbox
+                    id="remember-login"
+                    colorScheme="brandScheme"
+                    me="10px"
+                  />
+                  <FormLabel
+                    htmlFor="remember-login"
+                    mb="0"
+                    fontWeight="normal"
+                    color={textColor}
+                    fontSize="sm"
+                  >
+                    Keep me logged in
+                  </FormLabel>
+                </FormControl>
+                <NavLink to="/auth/forgot-password">
+                  <Text
+                    color={textColorBrand}
+                    fontSize="sm"
+                    w="124px"
+                    fontWeight="500"
+                  >
+                    Forgot password?
+                  </Text>
+                </NavLink>
+              </Flex>
+              <Button
+                fontSize="sm"
+                variant="brand"
+                fontWeight="500"
+                w="100%"
+                h="50"
+                mb="24px"
+              >
+                Sign In
+              </Button>
+            </FormControl>
+          </form>
+
           <Flex
             flexDirection="column"
             justifyContent="center"

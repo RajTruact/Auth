@@ -24,13 +24,12 @@ dotenv.config(); // Load env vars
 const app = express();
 
 // Try this more explicit CORS configuration
-app.use(
-  cors({
-    origin:
-      "https://fullstackauth-827123197.development.catalystserverless.com",
-    credentials: true,
-  })
-);
+// app.use(
+//   cors({
+//     origin: "http://localhost:3000",
+//     credentials: true,
+//   })
+// );
 
 app.use(express.json());
 app.use(cookieParser());
