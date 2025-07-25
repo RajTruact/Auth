@@ -39,6 +39,7 @@ const tableName = "Registration";
 const emailCol = "registeredEmail";
 const usernameCol = "userID";
 const passwordCol = "password";
+const roleCol = "role";
 
 // Secret key for JWT
 // const JWT_SECRET = 'your_secret_key'; // 🔐 In production, store in env variable
@@ -61,7 +62,7 @@ app.get("/", async (req, res) => {
 app.post("/signup", async (req, res) => {
   console.log("Received body:", req.body); // Add this for debug
 
-  const { email, username, password } = req.body;
+  const { email, username, password, role } = req.body;
   if (!email || !username || !password) {
     return res.status(400).send({ message: "Missing fields" });
   }
@@ -80,6 +81,7 @@ app.post("/signup", async (req, res) => {
         [emailCol]: email,
         [usernameCol]: username,
         [passwordCol]: hashedPassword,
+        [roleCol]: role,
       },
     ];
 
@@ -101,7 +103,7 @@ app.post("/login", async (req, res) => {
     const result = await catalystApp.zcql().executeZCQLQuery(query);
 
     if (result.length === 0) {
-      return res.status(401).send({ message: "result not found" });
+      return res.status(401).send({ message: "Invalid credentials" });
     }
 
     console.log(result);
@@ -117,9 +119,13 @@ app.post("/login", async (req, res) => {
     }
 
     // Generate JWT token
-    const token = jwt.sign({ email: user[emailCol] }, process.env.JWT_SECRET, {
-      expiresIn: "30s",
-    });
+    const token = jwt.sign(
+      { email: user[emailCol], role: user[roleCol] },
+      process.env.JWT_SECRET,
+      {
+        expiresIn: "30s",
+      }
+    );
 
     // Send token in HTTP-only cookie
     res.cookie("token", token, {
@@ -128,7 +134,7 @@ app.post("/login", async (req, res) => {
       maxAge: 30000,
     });
 
-    res.send({ message: "Login successful!" });
+    res.send({ message: "Login successful!", role: user[roleCol] });
   } catch (err) {
     console.error(err);
     // sendErrorResponse(res);

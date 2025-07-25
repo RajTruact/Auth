@@ -21,8 +21,9 @@
 
 */
 
-import React from "react";
-import { NavLink } from "react-router-dom";
+import React, { useState } from "react";
+import { NavLink, useNavigate } from "react-router-dom";
+
 // Chakra imports
 import {
   Box,
@@ -47,6 +48,9 @@ import illustration from "assets/img/auth/auth.png";
 import { FcGoogle } from "react-icons/fc";
 import { MdOutlineRemoveRedEye } from "react-icons/md";
 import { RiEyeCloseLine } from "react-icons/ri";
+import { useFormik } from "formik";
+import * as Yup from "yup";
+import axios from "axios";
 
 function Login() {
   // Chakra color mode
@@ -67,6 +71,52 @@ function Login() {
   );
   const [show, setShow] = React.useState(false);
   const handleClick = () => setShow(!show);
+  const navigate = useNavigate();
+
+  const [failAPI, setFailAPI] = useState("");
+  const [loading, setLoading] = useState(false);
+  const formik = useFormik({
+    initialValues: {
+      email: "",
+      password: "",
+    },
+    validationSchema: Yup.object({
+      email: Yup.string().email().required("Please enter your valid email"),
+      password: Yup.string()
+        .min(6)
+        .required("Please enter your valid password"),
+    }),
+    onSubmit: async (values, actions) => {
+      try {
+        const response = await axios.post(
+          "https://backend-10102053178.development.catalystappsail.com/login",
+          {
+            email: values.email,
+            password: values.password,
+          }
+        );
+        const userRole = response.data.role;
+        actions.resetForm();
+
+        // Redirect based on role
+        if (userRole === "admin") {
+          navigate("/admin/default");
+        } else if (userRole === "faculty") {
+          navigate("/faculty/default");
+        } else if (userRole === "donor") {
+          navigate("/donor/default");
+        } else {
+          // fallback
+          navigate("/unauthorized");
+        }
+      } catch (error) {
+        console.error(error.message);
+        setFailAPI(error.response?.data.message);
+        console.error("Signup failed:", error.response?.data.message);
+      }
+    },
+  });
+
   return (
     <DefaultAuth illustrationBackground={illustration} image={illustration}>
       <Flex
@@ -131,118 +181,136 @@ function Login() {
             </Text>
             <HSeparator />
           </Flex>
-          <FormControl>
-            <FormLabel
-              display="flex"
-              ms="4px"
-              fontSize="sm"
-              fontWeight="500"
-              color={textColor}
-              mb="8px"
-            >
-              UserName<Text color={brandStars}>*</Text>
-            </FormLabel>
-            <Input
-              isRequired={true}
-              variant="auth"
-              fontSize="sm"
-              ms={{ base: "0px", md: "0px" }}
-              type="email"
-              placeholder="username"
-              mb="24px"
-              fontWeight="500"
-              size="lg"
-            />
-
-            <FormLabel
-              display="flex"
-              ms="4px"
-              fontSize="sm"
-              fontWeight="500"
-              color={textColor}
-              mb="8px"
-            >
-              Email<Text color={brandStars}>*</Text>
-            </FormLabel>
-            <Input
-              isRequired={true}
-              variant="auth"
-              fontSize="sm"
-              ms={{ base: "0px", md: "0px" }}
-              type="email"
-              placeholder="mail@simmmple.com"
-              mb="24px"
-              fontWeight="500"
-              size="lg"
-            />
-
-            <FormLabel
-              ms="4px"
-              fontSize="sm"
-              fontWeight="500"
-              color={textColor}
-              display="flex"
-            >
-              Password<Text color={brandStars}>*</Text>
-            </FormLabel>
-            <InputGroup size="md">
+          <form onSubmit={formik.handleSubmit}>
+            <FormControl>
+              <FormLabel
+                display="flex"
+                ms="4px"
+                fontSize="sm"
+                fontWeight="500"
+                color={textColor}
+                mb="8px"
+                mt="8px"
+              >
+                Email<Text color={brandStars}>*</Text>
+              </FormLabel>
               <Input
                 isRequired={true}
-                fontSize="sm"
-                placeholder="Min. 8 characters"
-                mb="24px"
-                size="lg"
-                type={show ? "text" : "password"}
                 variant="auth"
+                fontSize="sm"
+                ms={{ base: "0px", md: "0px" }}
+                type="email"
+                placeholder="mail@simmmple.com"
+                mb="15px"
+                fontWeight="500"
+                size="lg"
+                name="email"
+                id="email"
+                value={formik.values.email}
+                onChange={formik.handleChange}
+                onBlur={formik.handleBlur}
               />
-              <InputRightElement display="flex" alignItems="center" mt="4px">
-                <Icon
-                  color={textColorSecondary}
-                  _hover={{ cursor: "pointer" }}
-                  as={show ? RiEyeCloseLine : MdOutlineRemoveRedEye}
-                  onClick={handleClick}
-                />
-              </InputRightElement>
-            </InputGroup>
-            <Flex justifyContent="space-between" align="center" mb="24px">
-              <FormControl display="flex" alignItems="center">
-                <Checkbox
-                  id="remember-login"
-                  colorScheme="brandScheme"
-                  me="10px"
-                />
-                <FormLabel
-                  htmlFor="remember-login"
-                  mb="0"
-                  fontWeight="normal"
-                  color={textColor}
-                  fontSize="sm"
-                >
-                  Keep me logged in
-                </FormLabel>
-              </FormControl>
-              <NavLink to="/auth/forgot-password">
-                <Text
-                  color={textColorBrand}
-                  fontSize="sm"
-                  w="124px"
-                  fontWeight="500"
-                >
-                  Forgot password?
+
+              {formik.errors.email && formik.touched.email && (
+                <Text color="red.500" fontSize="sm">
+                  {formik.errors.email}
                 </Text>
-              </NavLink>
-            </Flex>
-            <Button
-              fontSize="sm"
-              variant="brand"
-              fontWeight="500"
-              w="100%"
-              h="50"
-              mb="24px"
-            >
-              Sign In
-            </Button>
-          </FormControl>
+              )}
+
+              <FormLabel
+                ms="4px"
+                fontSize="sm"
+                fontWeight="500"
+                color={textColor}
+                display="flex"
+                mb="8px"
+                mt="8px"
+              >
+                Password<Text color={brandStars}>*</Text>
+              </FormLabel>
+              <InputGroup size="md">
+                <Input
+                  isRequired={true}
+                  fontSize="sm"
+                  placeholder="Min. 8 characters"
+                  mb="15px"
+                  size="lg"
+                  type={show ? "text" : "password"}
+                  variant="auth"
+                  name="password"
+                  id="password"
+                  value={formik.values.password}
+                  onChange={formik.handleChange}
+                  onBlur={formik.handleBlur}
+                />
+                <InputRightElement display="flex" alignItems="center" mt="4px">
+                  <Icon
+                    color={textColorSecondary}
+                    _hover={{ cursor: "pointer" }}
+                    as={show ? RiEyeCloseLine : MdOutlineRemoveRedEye}
+                    onClick={handleClick}
+                  />
+                </InputRightElement>
+              </InputGroup>
+              {formik.errors.password && formik.touched.password && (
+                <Text color="red.500" fontSize="sm" className="mb-2">
+                  {formik.errors.password}
+                </Text>
+              )}
+
+              {failAPI && (
+                <Text color="red.500" fontSize="sm" className="mb-2">
+                  {failAPI}
+                </Text>
+              )}
+              <Flex
+                justifyContent="space-between"
+                align="center"
+                mb="24px"
+                mt="15px"
+              >
+                <FormControl display="flex" alignItems="center">
+                  <Checkbox
+                    id="remember-login"
+                    colorScheme="brandScheme"
+                    me="10px"
+                  />
+                  <FormLabel
+                    htmlFor="remember-login"
+                    mb="0"
+                    fontWeight="normal"
+                    color={textColor}
+                    fontSize="sm"
+                  >
+                    Keep me logged in
+                  </FormLabel>
+                </FormControl>
+                <NavLink to="/auth/forgot-password">
+                  <Text
+                    color={textColorBrand}
+                    fontSize="sm"
+                    w="124px"
+                    fontWeight="500"
+                  >
+                    Forgot password?
+                  </Text>
+                </NavLink>
+              </Flex>
+              <Button
+                fontSize="sm"
+                variant="brand"
+                fontWeight="500"
+                w="100%"
+                h="50"
+                mb="24px"
+                isLoading={loading}
+                type="submit"
+              >
+                Log In
+              </Button>
+            </FormControl>
+          </form>
+
           <Flex
             flexDirection="column"
             justifyContent="center"

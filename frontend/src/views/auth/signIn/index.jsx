@@ -13,6 +13,7 @@ import {
   Input,
   InputGroup,
   InputRightElement,
+  Select,
   Text,
   useColorModeValue,
 } from "@chakra-ui/react";
@@ -50,16 +51,45 @@ function SignIn() {
 
   const navigate = useNavigate();
 
+  // const formik = useFormik({
+  //   initialValues: {
+  //     name: "",
+  //     email: "",
+  //     password: "",
+  //   },
+  //   validationSchema: Yup.object({
+  //     name: Yup.string().min(2).max(25).required("Please enter your name"),
+  //     email: Yup.string().email().required("Please enter your email"),
+  //     password: Yup.string().min(6).required("Please enter your password"),
+  //   }),
+  //   onSubmit: async (values, actions) => {
+  //     try {
+  //       const response = await axios.post("http://localhost:3001/signup", {
+  //         email: values.email,
+  //         username: values.name,
+  //         password: values.password,
+  //       });
+  //       console.log(response.data);
+  //       actions.resetForm();
+  //       navigate("/admin/default","/donor/default", "/faculty/default");
+  //     } catch (error) {
+  //       console.error("Signup failed:", error.response?.data || error.message);
+  //     }
+  //   },
+  // });
+
   const formik = useFormik({
     initialValues: {
       name: "",
       email: "",
       password: "",
+      role: "",
     },
     validationSchema: Yup.object({
       name: Yup.string().min(2).max(25).required("Please enter your name"),
       email: Yup.string().email().required("Please enter your email"),
       password: Yup.string().min(6).required("Please enter your password"),
+      role: Yup.string().required("Please select a role"),
     }),
     onSubmit: async (values, actions) => {
       try {
@@ -69,11 +99,16 @@ function SignIn() {
             email: values.email,
             username: values.name,
             password: values.password,
+            role: values.role,
           }
         );
         console.log(response.data);
         actions.resetForm();
-        navigate("/admin/default");
+
+        // Optional: Navigate based on role
+        if (values.role === "admin") navigate("/admin/default");
+        else if (values.role === "donor") navigate("/donor/default");
+        else if (values.role === "faculty") navigate("/faculty/default");
       } catch (error) {
         console.error("Signup failed:", error.response?.data || error.message);
       }
@@ -100,7 +135,7 @@ function SignIn() {
             Sign In
           </Heading>
           <Text
-            mb="36px"
+            mb="25px"
             ms="4px"
             color={textColorSecondary}
             fontWeight="400"
@@ -163,7 +198,7 @@ function SignIn() {
                 ms={{ base: "0px", md: "0px" }}
                 type="text"
                 placeholder="username"
-                mb="24px"
+                mb="15px"
                 fontWeight="500"
                 size="lg"
                 name="name"
@@ -185,7 +220,7 @@ function SignIn() {
                 fontSize="sm"
                 fontWeight="500"
                 color={textColor}
-                mb="0px"
+                mb="8px"
                 mt="8px"
               >
                 Email<Text color={brandStars}>*</Text>
@@ -197,7 +232,7 @@ function SignIn() {
                 ms={{ base: "0px", md: "0px" }}
                 type="email"
                 placeholder="mail@simmmple.com"
-                mb="24px"
+                mb="15px"
                 fontWeight="500"
                 size="lg"
                 name="email"
@@ -219,7 +254,7 @@ function SignIn() {
                 fontWeight="500"
                 color={textColor}
                 display="flex"
-                mb="0px"
+                mb="8px"
                 mt="8px"
               >
                 Password<Text color={brandStars}>*</Text>
@@ -229,7 +264,7 @@ function SignIn() {
                   isRequired={true}
                   fontSize="sm"
                   placeholder="Min. 8 characters"
-                  mb="24px"
+                  mb="15px"
                   size="lg"
                   type={show ? "text" : "password"}
                   variant="auth"
@@ -254,6 +289,42 @@ function SignIn() {
                   {formik.errors.password}
                 </Text>
               )}
+
+              <FormLabel
+                display="flex"
+                ms="4px"
+                fontSize="sm"
+                fontWeight="500"
+                color={textColor}
+                mb="8px"
+                mt="8px"
+              >
+                Role<Text color={brandStars}>*</Text>
+              </FormLabel>
+
+              <Select
+                placeholder="Select role"
+                variant="auth"
+                fontSize="sm"
+                mb="15px"
+                size="lg"
+                name="role"
+                id="role"
+                value={formik.values.role}
+                onChange={formik.handleChange}
+                onBlur={formik.handleBlur}
+              >
+                <option value="admin">Admin</option>
+                <option value="faculty">Faculty</option>
+                <option value="donor">Donor</option>
+              </Select>
+
+              {formik.errors.role && formik.touched.role && (
+                <Text color="red.500" fontSize="sm">
+                  {formik.errors.role}
+                </Text>
+              )}
+
               <Flex
                 justifyContent="space-between"
                 align="center"
@@ -307,6 +378,7 @@ function SignIn() {
             alignItems="start"
             maxW="100%"
             mt="0px"
+            mb="15px"
           >
             <Text color={textColorDetails} fontWeight="400" fontSize="14px">
               Already have an account?

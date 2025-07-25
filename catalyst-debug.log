@@ -1349,3 +1349,1343 @@ Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 04:22:25 GMT","conten
 [debug] [2025-07-25T04:22:25.546Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
 
 [debug] [2025-07-25T04:22:25.555Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[info] [2025-07-25T04:36:11.054Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:36:12.835Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:36:12.836Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:36:12.836Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:36:12.837Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:36:12.950Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:36:14.577Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:36:14.577Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:36:14.579Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:36:14.579Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:36:30.256Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:36:31.715Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:36:31.715Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:36:31.715Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:36:31.716Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:37:05.261Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:37:06.680Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:37:06.680Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:37:06.680Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:37:06.681Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:37:10.862Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:37:11.897Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:37:11.897Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:37:11.897Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:37:11.898Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:40:14.854Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:40:16.705Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:40:16.706Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:40:16.706Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:40:16.706Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:40:37.170Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:40:38.220Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:40:38.220Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:40:38.220Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:40:38.220Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:40:43.410Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:40:44.896Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:40:44.897Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:40:44.897Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:40:44.897Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:42:15.224Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:42:16.996Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:42:16.997Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:42:16.997Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:42:16.997Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:42:19.691Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:42:21.017Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:42:21.017Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:42:21.018Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:42:21.018Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:42:27.161Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:42:28.524Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:42:28.525Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:42:28.525Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:42:28.525Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:42:32.570Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:42:33.696Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:42:33.696Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:42:33.696Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:42:33.696Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:51:41.743Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:51:44.326Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:51:44.329Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:51:44.345Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:51:44.355Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:52:03.804Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:52:05.110Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:52:05.110Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:52:05.110Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:52:05.111Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:52:12.150Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:52:13.256Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:52:13.256Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:52:13.256Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:52:13.257Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:52:45.262Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:52:46.434Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:52:46.435Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:52:46.435Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:52:46.435Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:53:55.739Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:53:57.453Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:53:57.453Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:53:57.453Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:53:57.454Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:53:59.106Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:54:00.215Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:54:00.216Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:54:00.216Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:54:00.216Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:54:04.149Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:54:05.674Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:54:05.675Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:54:05.675Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:54:05.675Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:54:58.406Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:54:59.742Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:54:59.765Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:54:59.792Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:54:59.793Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:55:07.442Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:55:08.929Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:55:08.930Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:55:08.930Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:55:08.930Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:55:41.272Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:55:42.555Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:55:42.555Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:55:42.555Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:55:42.556Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:55:54.605Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:55:55.854Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:55:55.854Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:55:55.854Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:55:55.854Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:56:26.465Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:56:28.038Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:56:28.039Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:56:28.039Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:56:28.039Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:56:37.640Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:56:38.797Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:56:38.798Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:56:38.798Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:56:38.798Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:56:55.892Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:56:57.354Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:56:57.355Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:56:57.355Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:56:57.355Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:57:22.540Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:57:23.632Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:57:23.632Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:57:23.633Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:57:23.633Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:58:40.026Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:58:41.542Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:58:41.542Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:58:41.542Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:58:41.543Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:58:49.816Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:58:51.113Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:58:51.113Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:58:51.114Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:58:51.114Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T04:59:28.648Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T04:59:30.004Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T04:59:30.005Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T04:59:30.005Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T04:59:30.005Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:00:32.559Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:00:34.277Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:00:34.278Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:00:34.278Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:00:34.279Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:00:44.079Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:00:45.515Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:00:45.515Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:00:45.515Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:00:45.515Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:01:14.500Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:01:16.067Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:01:16.068Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:01:16.068Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:01:16.068Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:02:28.426Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:02:29.771Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:02:29.771Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:02:29.772Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:02:29.772Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:02:44.548Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:02:45.761Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:02:45.761Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:02:45.761Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:02:45.762Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:07:13.887Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:07:15.929Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:07:15.971Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:07:15.972Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:07:15.972Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:07:30.695Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:07:31.227Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:07:31.228Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:07:31.228Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:07:31.228Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:07:35.581Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:07:36.740Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:07:36.740Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:07:36.741Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:07:36.741Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:08:01.219Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:08:02.675Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:08:02.676Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:08:02.676Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:08:02.676Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:08:07.388Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:08:07.786Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:08:07.786Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:08:07.787Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:08:07.787Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:08:59.880Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:09:00.701Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:09:00.744Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:09:00.748Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:09:00.748Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:09:09.299Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:09:10.707Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:09:10.730Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:09:10.731Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:09:10.732Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:09:10.865Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:09:11.384Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:09:11.384Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:09:11.385Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:09:11.385Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:09:11.420Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:09:11.811Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:09:11.812Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:09:11.812Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:09:11.812Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:09:22.921Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:09:24.109Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:09:24.109Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:09:24.109Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:09:24.109Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:10:36.839Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:10:38.464Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:10:38.465Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:10:38.465Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:10:38.465Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:10:55.164Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:10:56.402Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:10:56.403Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:10:56.403Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:10:56.404Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:12:27.752Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:12:29.251Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:12:29.252Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:12:29.252Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:12:29.252Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:13:01.831Z] : Shutting down server
+[info] [2025-07-25T05:13:01.973Z] : 
+[info] [2025-07-25T05:13:01.973Z] : √ Shutdown complete
+[debug] [2025-07-25T05:13:01.974Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T05:13:01.975Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-25T05:13:01.975Z] : TOTAL DURATION OF COMMAND EXEC : 3241159
+[debug] [2025-07-25T05:13:02.034Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T05:13:04.911Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:13:04 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:13:04.916Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T05:13:04.931Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-25T05:13:09.267Z] : 
+[debug] [2025-07-25T05:13:09.269Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:13:09.270Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-25T05:13:09.270Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T05:13:09.270Z] : Platform:     win32
+[debug] [2025-07-25T05:13:09.271Z] : Node Version: v20.17.0
+[debug] [2025-07-25T05:13:09.271Z] : Time:         Fri Jul 25 2025 10:43:09 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T05:13:09.271Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:13:09.271Z] : 
+[debug] [2025-07-25T05:13:09.870Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T05:13:09.871Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-25T05:13:09.890Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T05:13:10.796Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:13:10 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:13:10.810Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T05:13:11.110Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:13:11 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:13:11.597Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-25T05:13:11.767Z] : No basic functions to add
+[info] [2025-07-25T05:13:15.941Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-25T05:13:15.944Z] : 
+[info] [2025-07-25T05:13:15.945Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-25T05:13:15.945Z] : 
+[info] [2025-07-25T05:13:18.013Z] : 
+[info] [2025-07-25T05:13:18.014Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T05:13:18.014Z] : Executing command > npm install
+[info] [2025-07-25T05:13:18.014Z] : > npm install
+[info] [2025-07-25T05:13:20.302Z] : 
+[info] [2025-07-25T05:13:20.304Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-25T05:13:20.306Z] : i backend: http://localhost:3001
+[info] [2025-07-25T05:13:20.317Z] : 
+[info] [2025-07-25T05:13:20.317Z] : 
+[info] [2025-07-25T05:13:20.320Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-25T05:13:20.322Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-25T05:13:20.323Z] : 
+[info] [2025-07-25T05:13:29.482Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:13:29.517Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:13:29.518Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:13:29.518Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:14:18.706Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:14:21.016Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:14:21.017Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:14:21.017Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:14:21.018Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:15:13.087Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:15:14.279Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:15:14.299Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:15:14.300Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:15:14.300Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:15:25.740Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:15:27.340Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:15:27.340Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:15:27.341Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:15:27.341Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:16:09.616Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:16:11.402Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:16:11.407Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:16:11.407Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:16:11.408Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:17:47.465Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:17:49.675Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:17:49.704Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:17:49.705Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:17:49.705Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2025-07-25T05:18:12.985Z] : > refreshing access token <
+[debug] [2025-07-25T05:18:12.988Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-25T05:18:13.841Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:18:13 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:19:03.459Z] : Shutting down server
+[info] [2025-07-25T05:19:03.491Z] : 
+[info] [2025-07-25T05:19:03.492Z] : √ Shutdown complete
+[debug] [2025-07-25T05:19:03.493Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T05:19:03.494Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-25T05:19:03.494Z] : TOTAL DURATION OF COMMAND EXEC : 353640
+[debug] [2025-07-25T05:19:03.521Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T05:19:16.122Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:19:16 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:19:16.127Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T05:19:16.139Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-25T05:19:24.898Z] : 
+[debug] [2025-07-25T05:19:24.900Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:19:24.900Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-25T05:19:24.901Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T05:19:24.901Z] : Platform:     win32
+[debug] [2025-07-25T05:19:24.901Z] : Node Version: v20.17.0
+[debug] [2025-07-25T05:19:24.902Z] : Time:         Fri Jul 25 2025 10:49:24 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T05:19:24.902Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:19:24.902Z] : 
+[debug] [2025-07-25T05:19:25.393Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T05:19:25.394Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-25T05:19:25.409Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T05:19:26.343Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:19:26 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:19:26.359Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T05:19:26.667Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:19:26 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:19:27.044Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-25T05:19:27.177Z] : No basic functions to add
+[info] [2025-07-25T05:19:30.599Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-25T05:19:30.601Z] : 
+[info] [2025-07-25T05:19:30.601Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-25T05:19:30.602Z] : 
+[info] [2025-07-25T05:19:32.502Z] : 
+[info] [2025-07-25T05:19:32.502Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T05:19:32.503Z] : Executing command > npm install
+[info] [2025-07-25T05:19:32.503Z] : > npm install
+[info] [2025-07-25T05:19:34.828Z] : 
+[info] [2025-07-25T05:19:34.828Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-25T05:19:34.829Z] : i backend: http://localhost:3001
+[info] [2025-07-25T05:19:34.830Z] : 
+[info] [2025-07-25T05:19:34.831Z] : 
+[info] [2025-07-25T05:19:34.832Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-25T05:19:34.836Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-25T05:19:34.837Z] : 
+[info] [2025-07-25T05:19:39.789Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:19:39.790Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:19:39.790Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:19:39.790Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:20:28.318Z] : Shutting down server
+[info] [2025-07-25T05:20:28.362Z] : 
+[info] [2025-07-25T05:20:28.363Z] : √ Shutdown complete
+[debug] [2025-07-25T05:20:28.363Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T05:20:28.364Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-25T05:20:28.364Z] : TOTAL DURATION OF COMMAND EXEC : 62984
+[debug] [2025-07-25T05:20:28.394Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T05:20:31.158Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:20:31 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:20:31.160Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T05:20:31.163Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-25T05:20:33.188Z] : 
+[debug] [2025-07-25T05:20:33.190Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:20:33.191Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-25T05:20:33.191Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T05:20:33.192Z] : Platform:     win32
+[debug] [2025-07-25T05:20:33.192Z] : Node Version: v20.17.0
+[debug] [2025-07-25T05:20:33.192Z] : Time:         Fri Jul 25 2025 10:50:33 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T05:20:33.193Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:20:33.193Z] : 
+[debug] [2025-07-25T05:20:33.624Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T05:20:33.625Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-25T05:20:33.645Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T05:20:34.556Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:20:34 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:20:34.564Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T05:20:34.849Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:20:34 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:20:35.115Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-25T05:20:35.209Z] : No basic functions to add
+[info] [2025-07-25T05:20:37.703Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-25T05:20:37.705Z] : 
+[info] [2025-07-25T05:20:37.706Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-25T05:20:37.706Z] : 
+[info] [2025-07-25T05:20:39.048Z] : 
+[info] [2025-07-25T05:20:39.049Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T05:20:39.049Z] : Executing command > npm install
+[info] [2025-07-25T05:20:39.049Z] : > npm install
+[info] [2025-07-25T05:20:40.774Z] : 
+[info] [2025-07-25T05:20:40.774Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-25T05:20:40.775Z] : i backend: http://localhost:3001
+[info] [2025-07-25T05:20:40.775Z] : 
+[info] [2025-07-25T05:20:40.775Z] : 
+[info] [2025-07-25T05:20:40.776Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-25T05:20:40.776Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-25T05:20:40.776Z] : 
+[info] [2025-07-25T05:20:44.322Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:20:44.322Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:20:44.323Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:20:44.323Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:22:44.568Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:22:49.985Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:22:49.985Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:22:49.986Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:22:49.986Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:24:12.976Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:24:14.825Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:24:14.826Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:24:14.827Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:24:14.827Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:25:10.707Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:25:12.419Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:25:12.444Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:25:12.469Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:25:12.469Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:26:57.774Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:26:59.924Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:26:59.959Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:26:59.959Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:26:59.959Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:27:22.569Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:27:23.980Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:27:23.981Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:27:23.981Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:27:23.981Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:29:47.462Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:29:49.812Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:29:49.812Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:29:49.813Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:29:49.813Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:30:16.678Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:30:18.206Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:30:18.206Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:30:18.207Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:30:18.207Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:32:02.376Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:32:03.841Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:32:03.842Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:32:03.842Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:32:03.842Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:33:12.327Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:33:14.260Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:33:14.261Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:33:14.262Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:33:14.262Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:34:41.474Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:34:42.961Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:34:42.969Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:34:42.969Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:34:42.969Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:34:53.502Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:34:54.727Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:34:54.727Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:34:54.728Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:34:54.728Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2025-07-25T05:34:59.731Z] : 
+[debug] [2025-07-25T05:34:59.736Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:34:59.736Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js deploy
+[debug] [2025-07-25T05:34:59.737Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T05:34:59.737Z] : Platform:     win32
+[debug] [2025-07-25T05:34:59.737Z] : Node Version: v20.17.0
+[debug] [2025-07-25T05:34:59.738Z] : Time:         Fri Jul 25 2025 11:04:59 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T05:34:59.738Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:34:59.738Z] : 
+[debug] [2025-07-25T05:35:00.264Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T05:35:00.265Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.webapp.ALL","ZohoCatalyst.appsail.Update"]
+[debug] [2025-07-25T05:35:00.283Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T05:35:01.211Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:35:01 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:35:01.226Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T05:35:01.509Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:35:01 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:35:01.688Z] : i Plugin : "zcatalyst-cli-plugin-react" is used for client deploy
+[info] [2025-07-25T05:35:01.689Z] : i Building Application...
+[info] [2025-07-25T05:35:04.602Z] : [react-plugin]: Creating an optimized production build...
+[info] [2025-07-25T05:35:51.341Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:35:51.354Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:35:51.361Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:35:51.402Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:35:51.431Z] : [react-plugin]: File sizes after gzip:
+
+[info] [2025-07-25T05:35:51.743Z] : [react-plugin]:   451.82 kB (+145 B)  build\static\js\main.aca83bd1.js
+[info] [2025-07-25T05:35:51.750Z] : [react-plugin]:   1.35 kB             build\static\css\main.d196d1cc.css
+[info] [2025-07-25T05:35:51.751Z] : [react-plugin]:  
+[debug] [2025-07-25T05:35:59.960Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/webapp 
+
+[debug] [2025-07-25T05:36:08.893Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:36:08 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:36:08.914Z] : 
+[info] [2025-07-25T05:36:08.914Z] : Executing predeploy script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T05:36:08.915Z] : Executing command > npm install
+[info] [2025-07-25T05:36:08.915Z] : > npm install
+[debug] [2025-07-25T05:36:13.369Z] : >>>> HTTP REQUEST : PUT https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/appsail/upsert 
+
+[debug] [2025-07-25T05:36:18.021Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:36:17 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:36:18.022Z] : 
+[info] [2025-07-25T05:36:18.024Z] : √ client: deploy successful
+[info] [2025-07-25T05:36:18.025Z] : i client: URL => https://fullstackauth-827123197.development.catalystserverless.com/app/index.html
+[info] [2025-07-25T05:36:18.026Z] : 
+[info] [2025-07-25T05:36:18.026Z] : i AppSail(backend): URL => https://backend-10102053178.development.catalystappsail.com
+[info] [2025-07-25T05:36:18.027Z] : √ AppSail(backend): deploy successful
+[info] [2025-07-25T05:36:18.027Z] : 
+[info] [2025-07-25T05:36:18.028Z] : √ Catalyst deploy complete!
+[debug] [2025-07-25T05:36:18.032Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T05:36:18.032Z] : EXEC ENDED with event: deploy, message: success
+[debug] [2025-07-25T05:36:18.032Z] : TOTAL DURATION OF COMMAND EXEC : 77781
+[debug] [2025-07-25T05:36:18.060Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T05:36:18.572Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:36:18 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:36:18.572Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T05:36:18.576Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[info] [2025-07-25T05:46:49.352Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:46:54.835Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:46:54.844Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\navbar\NavbarLinksAdmin.js
+  Line 50:9:  'handleClick' is assigned a value but never used  no-unused-vars
+[info] [2025-07-25T05:46:55.016Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:46:55.032Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:46:55.242Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:46:55.700Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:46:55.700Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+
+[eslint] 
+src\components\navbar\NavbarLinksAdmin.js
+  Line 50:9:  'handleClick' is assigned a value but never used  no-unused-vars
+[info] [2025-07-25T05:46:55.700Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:46:55.701Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:05.219Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:06.507Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:06.507Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:06.508Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:06.508Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:07.468Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:08.057Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:08.068Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:08.076Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:08.078Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:08.182Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:08.675Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:08.702Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:08.741Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:08.742Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:34.047Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:36.428Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:36.431Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:36.432Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:36.432Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:36.589Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:37.458Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:37.458Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:37.458Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:37.459Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:54.983Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:56.710Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:56.710Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:56.711Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:56.711Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:56.768Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:57.282Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:57.283Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:57.283Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:57.283Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:57.635Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:58.018Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:58.019Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:58.019Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:58.019Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:58.061Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:58.541Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:58.543Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:58.543Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:58.545Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:47:58.609Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T05:47:58.935Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:47:58.936Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:47:58.936Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:47:58.936Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2025-07-25T05:48:01.716Z] : 
+[debug] [2025-07-25T05:48:01.728Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:48:01.728Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js deploy
+[debug] [2025-07-25T05:48:01.728Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T05:48:01.729Z] : Platform:     win32
+[debug] [2025-07-25T05:48:01.729Z] : Node Version: v20.17.0
+[debug] [2025-07-25T05:48:01.729Z] : Time:         Fri Jul 25 2025 11:18:01 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T05:48:01.730Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:48:01.730Z] : 
+[debug] [2025-07-25T05:48:02.252Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T05:48:02.252Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.webapp.ALL","ZohoCatalyst.appsail.Update"]
+[debug] [2025-07-25T05:48:02.271Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T05:48:03.212Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:48:03 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:48:03.223Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T05:48:03.515Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:48:03 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:48:03.705Z] : i Plugin : "zcatalyst-cli-plugin-react" is used for client deploy
+[info] [2025-07-25T05:48:03.705Z] : i Building Application...
+[info] [2025-07-25T05:48:08.055Z] : [react-plugin]: Creating an optimized production build...
+[info] [2025-07-25T05:48:43.774Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:48:43.775Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:48:43.776Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:48:43.776Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:48:43.776Z] : [react-plugin]: File sizes after gzip:
+
+[info] [2025-07-25T05:48:43.849Z] : [react-plugin]:   451.84 kB (+24 B)  build\static\js\main.281f9c34.js
+[info] [2025-07-25T05:48:43.849Z] : [react-plugin]:   1.35 kB            build\static\css\main.d196d1cc.css
+[info] [2025-07-25T05:48:43.850Z] : [react-plugin]:  
+[debug] [2025-07-25T05:48:48.849Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/webapp 
+
+[debug] [2025-07-25T05:48:56.118Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:48:56 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:48:56.145Z] : 
+[info] [2025-07-25T05:48:56.145Z] : Executing predeploy script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T05:48:56.146Z] : Executing command > npm install
+[info] [2025-07-25T05:48:56.146Z] : > npm install
+[debug] [2025-07-25T05:49:00.674Z] : >>>> HTTP REQUEST : PUT https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/appsail/upsert 
+
+[debug] [2025-07-25T05:49:09.041Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:49:09 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:49:09.045Z] : 
+[info] [2025-07-25T05:49:09.046Z] : √ client: deploy successful
+[info] [2025-07-25T05:49:09.047Z] : i client: URL => https://fullstackauth-827123197.development.catalystserverless.com/app/index.html
+[info] [2025-07-25T05:49:09.047Z] : 
+[info] [2025-07-25T05:49:09.047Z] : i AppSail(backend): URL => https://backend-10102053178.development.catalystappsail.com
+[info] [2025-07-25T05:49:09.048Z] : √ AppSail(backend): deploy successful
+[info] [2025-07-25T05:49:09.048Z] : 
+[info] [2025-07-25T05:49:09.048Z] : √ Catalyst deploy complete!
+[debug] [2025-07-25T05:49:09.049Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T05:49:09.053Z] : EXEC ENDED with event: deploy, message: success
+[debug] [2025-07-25T05:49:09.053Z] : TOTAL DURATION OF COMMAND EXEC : 66811
+[debug] [2025-07-25T05:49:09.146Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T05:49:09.587Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:49:09 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:49:09.588Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T05:49:09.613Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-25T05:49:47.540Z] : 
+[debug] [2025-07-25T05:49:47.553Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:49:47.553Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js deploy
+[debug] [2025-07-25T05:49:47.553Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T05:49:47.554Z] : Platform:     win32
+[debug] [2025-07-25T05:49:47.554Z] : Node Version: v20.17.0
+[debug] [2025-07-25T05:49:47.554Z] : Time:         Fri Jul 25 2025 11:19:47 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T05:49:47.554Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T05:49:47.555Z] : 
+[debug] [2025-07-25T05:49:48.020Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T05:49:48.021Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.webapp.ALL","ZohoCatalyst.appsail.Update"]
+[debug] [2025-07-25T05:49:48.039Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T05:49:48.932Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:49:48 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:49:48.941Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T05:49:49.236Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:49:49 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:49:49.399Z] : i Plugin : "zcatalyst-cli-plugin-react" is used for client deploy
+[info] [2025-07-25T05:49:49.400Z] : i Building Application...
+[info] [2025-07-25T05:49:52.159Z] : [react-plugin]: Creating an optimized production build...
+[info] [2025-07-25T05:49:57.243Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T05:49:57.244Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T05:49:57.245Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T05:49:57.245Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T05:49:57.246Z] : [react-plugin]: File sizes after gzip:
+
+[info] [2025-07-25T05:49:57.309Z] : [react-plugin]:   451.84 kB  build\static\js\main.281f9c34.js
+[info] [2025-07-25T05:49:57.310Z] : [react-plugin]:   1.35 kB    build\static\css\main.d196d1cc.css
+[info] [2025-07-25T05:49:57.310Z] : [react-plugin]:  
+[debug] [2025-07-25T05:49:59.854Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/webapp 
+
+[debug] [2025-07-25T05:50:09.466Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:50:09 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:50:09.507Z] : 
+[info] [2025-07-25T05:50:09.507Z] : Executing predeploy script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T05:50:09.508Z] : Executing command > npm install
+[info] [2025-07-25T05:50:09.508Z] : > npm install
+[debug] [2025-07-25T05:50:13.465Z] : >>>> HTTP REQUEST : PUT https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/appsail/upsert 
+
+[debug] [2025-07-25T05:50:19.612Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:50:19 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T05:50:19.615Z] : 
+[info] [2025-07-25T05:50:19.617Z] : √ client: deploy successful
+[info] [2025-07-25T05:50:19.618Z] : i client: URL => https://fullstackauth-827123197.development.catalystserverless.com/app/index.html
+[info] [2025-07-25T05:50:19.618Z] : 
+[info] [2025-07-25T05:50:19.619Z] : i AppSail(backend): URL => https://backend-10102053178.development.catalystappsail.com
+[info] [2025-07-25T05:50:19.620Z] : √ AppSail(backend): deploy successful
+[info] [2025-07-25T05:50:19.620Z] : 
+[info] [2025-07-25T05:50:19.621Z] : √ Catalyst deploy complete!
+[debug] [2025-07-25T05:50:19.622Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T05:50:19.623Z] : EXEC ENDED with event: deploy, message: success
+[debug] [2025-07-25T05:50:19.623Z] : TOTAL DURATION OF COMMAND EXEC : 31616
+[debug] [2025-07-25T05:50:19.668Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T05:50:20.172Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 05:50:20 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T05:50:20.173Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T05:50:20.181Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[info] [2025-07-25T06:03:03.648Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:03:06.075Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:03:06.076Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:03:06.077Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:03:06.077Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:03:06.240Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:03:07.655Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:03:07.655Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:03:07.656Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:03:07.656Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:03:10.426Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:03:12.740Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:03:12.740Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:03:12.778Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:03:12.778Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:03:56.212Z] : Shutting down server
+[info] [2025-07-25T06:03:56.304Z] : 
+[info] [2025-07-25T06:03:56.305Z] : √ Shutdown complete
+[debug] [2025-07-25T06:03:56.305Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T06:03:56.306Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-25T06:03:56.306Z] : TOTAL DURATION OF COMMAND EXEC : 2602696
+[debug] [2025-07-25T06:03:56.358Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T06:04:03.036Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:04:03 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:04:03.040Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T06:04:03.050Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-25T06:04:08.432Z] : 
+[debug] [2025-07-25T06:04:08.444Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T06:04:08.445Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-25T06:04:08.445Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T06:04:08.445Z] : Platform:     win32
+[debug] [2025-07-25T06:04:08.445Z] : Node Version: v20.17.0
+[debug] [2025-07-25T06:04:08.446Z] : Time:         Fri Jul 25 2025 11:34:08 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T06:04:08.446Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T06:04:08.446Z] : 
+[debug] [2025-07-25T06:04:08.982Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T06:04:08.982Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-25T06:04:09.004Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T06:04:09.953Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:04:09 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:04:09.971Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T06:04:10.268Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:04:10 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:04:10.739Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-25T06:04:10.865Z] : No basic functions to add
+[info] [2025-07-25T06:04:14.203Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-25T06:04:14.205Z] : 
+[info] [2025-07-25T06:04:14.206Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-25T06:04:14.206Z] : 
+[info] [2025-07-25T06:04:16.111Z] : 
+[info] [2025-07-25T06:04:16.112Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T06:04:16.112Z] : Executing command > npm install
+[info] [2025-07-25T06:04:16.112Z] : > npm install
+[info] [2025-07-25T06:04:18.423Z] : 
+[info] [2025-07-25T06:04:18.424Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-25T06:04:18.424Z] : i backend: http://localhost:3001
+[info] [2025-07-25T06:04:18.425Z] : 
+[info] [2025-07-25T06:04:18.425Z] : 
+[info] [2025-07-25T06:04:18.425Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-25T06:04:18.425Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-25T06:04:18.426Z] : 
+[info] [2025-07-25T06:04:28.640Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:04:28.648Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:04:28.649Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:04:28.649Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:08:20.536Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:08:22.477Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:08:22.478Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:08:22.479Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:08:22.479Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:21:46.451Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:21:48.473Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-07-25T06:21:48.474Z] : [react-plugin]: [eslint] 
+src\views\auth\signIn\index.jsx
+  Line 301:16:  'Select' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2025-07-25T06:22:08.038Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:22:09.228Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:22:09.228Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:22:09.228Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:22:09.229Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2025-07-25T06:22:09.551Z] : > refreshing access token <
+[debug] [2025-07-25T06:22:09.573Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-25T06:22:10.451Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:22:10 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T06:23:54.607Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:23:56.346Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:23:56.346Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:23:56.346Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:23:56.347Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:23:56.523Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:23:57.122Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:23:57.122Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:23:57.122Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:23:57.123Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:24:47.041Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:24:48.653Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:24:48.653Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:24:48.653Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:24:48.654Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:24:48.751Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:24:49.153Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:24:49.153Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:24:49.154Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:24:49.154Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:35:14.943Z] : Shutting down server
+[info] [2025-07-25T06:35:15.047Z] : 
+[info] [2025-07-25T06:35:15.048Z] : √ Shutdown complete
+[debug] [2025-07-25T06:35:15.049Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T06:35:15.050Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-07-25T06:35:15.050Z] : TOTAL DURATION OF COMMAND EXEC : 1866083
+[debug] [2025-07-25T06:35:15.088Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T06:35:17.659Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:35:17 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:35:17.661Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T06:35:17.672Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[debug] [2025-07-25T06:35:26.318Z] : 
+[debug] [2025-07-25T06:35:26.323Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T06:35:26.324Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-07-25T06:35:26.324Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T06:35:26.324Z] : Platform:     win32
+[debug] [2025-07-25T06:35:26.324Z] : Node Version: v20.17.0
+[debug] [2025-07-25T06:35:26.325Z] : Time:         Fri Jul 25 2025 12:05:26 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T06:35:26.325Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T06:35:26.325Z] : 
+[debug] [2025-07-25T06:35:26.879Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T06:35:26.880Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-07-25T06:35:26.901Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T06:35:27.866Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:35:27 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:35:27.885Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T06:35:28.212Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:35:28 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:35:28.698Z] : http port : '3000' is not available. Hence port '3001' will be used instead.
+[debug] [2025-07-25T06:35:28.858Z] : No basic functions to add
+[info] [2025-07-25T06:35:33.388Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-07-25T06:35:33.390Z] : 
+[info] [2025-07-25T06:35:33.391Z] : i Client[frontend]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-07-25T06:35:33.392Z] : 
+[info] [2025-07-25T06:35:35.580Z] : 
+[info] [2025-07-25T06:35:35.581Z] : Executing AppSail [PRESERVE] [backend] script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T06:35:35.581Z] : Executing command > npm install
+[info] [2025-07-25T06:35:35.581Z] : > npm install
+[info] [2025-07-25T06:35:38.212Z] : 
+[info] [2025-07-25T06:35:38.212Z] :  >>>>>>>>>>>>>> AppSail <<<<<<<<<<<<<< 
+[info] [2025-07-25T06:35:38.212Z] : i backend: http://localhost:3001
+[info] [2025-07-25T06:35:38.213Z] : 
+[info] [2025-07-25T06:35:38.213Z] : 
+[info] [2025-07-25T06:35:38.213Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-07-25T06:35:38.214Z] : i client[frontend]: http://localhost:3000/app/
+[info] [2025-07-25T06:35:38.214Z] : 
+[info] [2025-07-25T06:35:43.334Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:35:43.335Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:35:43.335Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:35:43.336Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:37:36.961Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:37:41.540Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:37:41.540Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:37:41.540Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:37:41.541Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:39:14.389Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:39:17.447Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:39:17.449Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:39:17.451Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:39:17.452Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:39:17.625Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:39:18.135Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:39:18.135Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:39:18.136Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:39:18.136Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:39:18.920Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:39:20.269Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:39:20.275Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:39:20.281Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:39:20.287Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:39:20.363Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T06:39:20.765Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:39:20.765Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:39:20.766Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:39:20.766Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2025-07-25T06:39:30.619Z] : 
+[debug] [2025-07-25T06:39:30.621Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T06:39:30.622Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js deploy
+[debug] [2025-07-25T06:39:30.622Z] : CLI Version:  1.20.1
+[debug] [2025-07-25T06:39:30.622Z] : Platform:     win32
+[debug] [2025-07-25T06:39:30.623Z] : Node Version: v20.17.0
+[debug] [2025-07-25T06:39:30.623Z] : Time:         Fri Jul 25 2025 12:09:30 GMT+0530 (India Standard Time)
+[debug] [2025-07-25T06:39:30.623Z] : ----------------------------------------------------------------------
+[debug] [2025-07-25T06:39:30.623Z] : 
+[debug] [2025-07-25T06:39:31.241Z] : > authorizing via signed-in user option
+[debug] [2025-07-25T06:39:31.243Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.functions.ALL","ZohoCatalyst.webapp.ALL","ZohoCatalyst.appsail.Update"]
+[debug] [2025-07-25T06:39:31.264Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171 
+
+[debug] [2025-07-25T06:39:32.184Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:39:32 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:39:32.198Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/environment 
+
+[debug] [2025-07-25T06:39:32.495Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:39:32 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T06:39:32.652Z] : i Plugin : "zcatalyst-cli-plugin-react" is used for client deploy
+[info] [2025-07-25T06:39:32.652Z] : i Building Application...
+[info] [2025-07-25T06:39:35.848Z] : [react-plugin]: Creating an optimized production build...
+[info] [2025-07-25T06:40:13.701Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T06:40:13.702Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T06:40:13.703Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T06:40:13.703Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-07-25T06:40:13.703Z] : [react-plugin]: File sizes after gzip:
+
+[info] [2025-07-25T06:40:13.776Z] : [react-plugin]:   452.05 kB (+213 B)  build\static\js\main.5f2f1ff3.js
+[info] [2025-07-25T06:40:13.776Z] : [react-plugin]:   1.35 kB             build\static\css\main.d196d1cc.css
+[info] [2025-07-25T06:40:13.777Z] : [react-plugin]:  
+[debug] [2025-07-25T06:40:18.081Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/webapp 
+
+[debug] [2025-07-25T06:40:27.017Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:40:27 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T06:40:27.050Z] : 
+[info] [2025-07-25T06:40:27.050Z] : Executing predeploy script in C:\Users\DELL\FullStackAuth\appsail-nodejs
+[debug] [2025-07-25T06:40:27.050Z] : Executing command > npm install
+[info] [2025-07-25T06:40:27.050Z] : > npm install
+[debug] [2025-07-25T06:40:34.217Z] : >>>> HTTP REQUEST : PUT https://api.catalyst.zoho.com/baas/v1/project/6134000000149171/appsail/upsert 
+
+[debug] [2025-07-25T06:40:46.959Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:40:46 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","x-content-type-options":"nosniff","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T06:40:46.962Z] : 
+[info] [2025-07-25T06:40:46.963Z] : √ client: deploy successful
+[info] [2025-07-25T06:40:46.964Z] : i client: URL => https://fullstackauth-827123197.development.catalystserverless.com/app/index.html
+[info] [2025-07-25T06:40:46.964Z] : 
+[info] [2025-07-25T06:40:46.965Z] : i AppSail(backend): URL => https://backend-10102053178.development.catalystappsail.com
+[info] [2025-07-25T06:40:46.966Z] : √ AppSail(backend): deploy successful
+[info] [2025-07-25T06:40:46.966Z] : 
+[info] [2025-07-25T06:40:46.967Z] : √ Catalyst deploy complete!
+[debug] [2025-07-25T06:40:46.970Z] : NO ERRORS REGISTERED
+[debug] [2025-07-25T06:40:46.971Z] : EXEC ENDED with event: deploy, message: success
+[debug] [2025-07-25T06:40:46.971Z] : TOTAL DURATION OF COMMAND EXEC : 75747
+[debug] [2025-07-25T06:40:47.011Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-07-25T06:40:49.621Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:40:49 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"148","connection":"keep-alive","x-content-type-options":"nosniff","x-frame-options":"DENY","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T06:40:49.622Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2025-07-25T06:40:49.627Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
