@@ -294,6 +294,7 @@ function SignIn() {
                 w="100%"
                 h="50"
                 mb="24px"
+                type="submit"
               >
                 Sign In
               </Button>
