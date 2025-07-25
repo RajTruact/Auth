@@ -2689,3 +2689,33 @@ Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 06:40:49 GMT","conten
 [debug] [2025-07-25T06:40:49.622Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
 
 [debug] [2025-07-25T06:40:49.627Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
+[info] [2025-07-25T08:08:23.738Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T08:08:28.140Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T08:08:28.144Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T08:08:28.146Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T08:08:28.146Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2025-07-25T08:08:28.777Z] : > refreshing access token <
+[debug] [2025-07-25T08:08:28.803Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-25T08:08:29.714Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 08:08:29 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[debug] [2025-07-25T09:41:18.068Z] : > refreshing access token <
+[debug] [2025-07-25T09:41:18.160Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-07-25T09:41:19.182Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 25 Jul 2025 09:41:19 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"keep-alive","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=64072000; includeSubDomains; preload"}
+
+[info] [2025-07-25T09:44:45.489Z] : [react-plugin]: Compiling...
+[info] [2025-07-25T09:44:52.847Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-07-25T09:44:52.849Z] : [react-plugin]: Failed to parse source map from 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\DELL\FullStackAuth\frontend\node_modules\stylis-plugin-rtl\src\stylis-rtl.ts'
+[info] [2025-07-25T09:44:52.853Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-07-25T09:44:52.853Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
